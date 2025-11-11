@@ -54,15 +54,7 @@ I’m passionate about leveraging technology to transform **local industries** s
 
 ---
 
-## 🧩 Projects  
-
-### **ORC Ghana Client & Admin Portal — Office of the Registrar of Companies, Ghana**  
-🛠 *Java (Spring Boot), JWT, MySQL, CodeIgniter 4, OpenAI Docs*  
-- Developed a complete portal for Ghana’s ORC enabling **online business registration and renewals**.  
-- Built **client and admin sections** for registration management, document uploads, ticketing, invoicing, and online payments.  
-- Implemented **JWT authentication**, secure data access, and performance optimization.  
-
----
+## 🧩 Projects
 
 ### **SIKA Accounting Software for Tertiary Institutions**  
 🛠 *PHP, MySQL, AWS, Nginx*  
